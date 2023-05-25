@@ -2,7 +2,7 @@ import * as React from "react";
 
 import { type LabelVariantsProps } from "./label.variants";
 
-interface LabelProps
+export interface LabelProps
   extends React.LabelHTMLAttributes<HTMLLabelElement>,
     LabelVariantsProps {
   className?: string;

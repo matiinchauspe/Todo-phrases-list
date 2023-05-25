@@ -9,3 +9,4 @@ TODO list of phrases
 ## Getting Started
 
 - Running `pnpm install && pnpm run dev` command or any package manager that you use
+- `pnpm run test` or to run tests
