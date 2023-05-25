@@ -1,5 +1,11 @@
-Ejercicio Interbanking
+# Phrases List.
 
-Una aplicación que permita agregar frases y que esas frases las vaya poniendo en cards en una matriz.
-También que permita buscar dentro de las frases un contenido y que filtre las cards que contengan ese texto.
-Usar TypeScript. Hacer un unit test.
+A Todo list implemented with Ts and react. Using jotai and cva for state management and styling.
+
+## Description
+
+TODO list of phrases
+
+## Getting Started
+
+- Running `pnpm install && pnpm run dev` command or any package manager that you use
